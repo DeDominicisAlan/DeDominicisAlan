@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hola, soy Alan! 
+
+## Recursos de las materias de la carrera: ATIC (Facultad de Informática - UNLP)
+
+### Segundo Año (2026)
+- ![FOD](https://img.shields.io/badge/FOD-%234169E1.svg?style=flat-square&logo=git&logoColor=white) **Fundamentos de Organización de Datos:** [Ver repositorio](https://github.com/DeDominicisAlan/FOD)
+- ![ING-1](https://img.shields.io/badge/ING--1-%232E8B57.svg?style=flat-square&logo=github&logoColor=white) **Ingeniería de Software 1:** [Ver repositorio](https://github.com/DeDominicisAlan/ING-1)
+- ![AyED](https://img.shields.io/badge/AyED-%238A2BE2.svg?style=flat-square&logo=dependabot&logoColor=white) **Algoritmos y Estructuras de Datos:** [Ver repositorio](#)
 
 <!--
 **DeDominicisAlan/DeDominicisAlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
