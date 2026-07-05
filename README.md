@@ -6,6 +6,7 @@
 - **Fundamentos de Organización de Datos:** [Ver repositorio](https://github.com/DeDominicisAlan/FOD)
 - **Ingeniería de Software 1:** [Ver repositorio](https://github.com/DeDominicisAlan/ING-1)
 - **Algoritmos y Estructuras de Datos:** [Ver repositorio](https://github.com/DeDominicisAlan/AYED-2024)
+- **Seminario de Lenguajes - PHP, React y API Rest:** [Ver repositorio](https://github.com/DeDominicisAlan/Seminario-php)
 
 <!--
 **DeDominicisAlan/DeDominicisAlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
